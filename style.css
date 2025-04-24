@@ -11,7 +11,7 @@ a {
     font-weight: bolder; /* Make text bold */
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: x-large;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
     color: black;
 }
 
